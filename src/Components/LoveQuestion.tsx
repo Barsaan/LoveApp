@@ -23,7 +23,7 @@ const LoveQuestion: React.FC = () => {
       setCelebrating(true);
       setShowBalloons(true);
       setShowSparkles(true);
-      setMessage("I knew it! I love you too! ❤️");
+      setMessage("I knew it! thankyouuuu ❤️");
     }
   }, [yesSize, celebrating]);
   
