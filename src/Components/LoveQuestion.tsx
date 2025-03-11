@@ -136,7 +136,7 @@ const LoveQuestion: React.FC = () => {
   return (
     <div className="love-question-container">
       <div className={`love-header ${celebrating ? 'celebrating' : ''}`}>
-        <h1 className="love-title">Hi! rithika</h1>
+        <h1 className="love-title">Hi! madamji</h1>
         <h1 className="love-title">will you go on date with me?</h1>
         
         {message && (
